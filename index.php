@@ -12,8 +12,10 @@
   
                <b>
                    <font color="brown">Application Version 1.0
+               </b>
+               <b>
                    <font color="brown">Jenkins build revision #1
-                  </b>
+                </b>
                    </font>
               </p>
        </body>
