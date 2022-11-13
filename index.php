@@ -4,9 +4,9 @@
       <body>
         <h1>Hello from Jenkins</h1>
  <?php
-        \$ip_server = \$_SERVER['SERVER_ADDR'];
+        $ip_server = $_SERVER['SERVER_ADDR'];
   
-    echo "<br>Server IP Address is: \$ip_server" 
+    echo "<br>Server IP Address is: $ip_server" 
   ?>
               <p>
   
