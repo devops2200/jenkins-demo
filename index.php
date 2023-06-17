@@ -18,7 +18,7 @@
                <p>
 
                <b>
-                   <font color="brown">Jenkins build revision #17
+                   <font color="brown">Jenkins build revision #1
                 </b>
                    </font>
               </p>
